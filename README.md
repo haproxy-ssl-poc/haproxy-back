@@ -6,5 +6,10 @@
 
 # run
 ````bash
-./web1.sh
+./run.sh
+````
+
+# kill
+````bash
+./kill.sh
 ````
