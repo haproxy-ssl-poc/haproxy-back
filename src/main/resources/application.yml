@@ -1,0 +1,8 @@
+server:
+  ssl:
+    enabled: true
+    key-store: /etc/certs/keystore.p12
+    key-store-type: PKCS12
+    key-store-password: password
+    key-alias: keycert
+
